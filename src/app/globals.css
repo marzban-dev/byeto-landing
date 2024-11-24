@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --color-primary: 164 48% 70%;
+    --color-primary-comma-seperated: 164, 48%, 70%;
+    --color-background: 150 5% 93%;
+}
+
+
+body {
+    /* color: #c8ec2790; */
+}
+
+@layer utilities {
+
+}
